@@ -38,7 +38,7 @@ pip install torch torchvision pillow numpy faiss-cpu pickle-mixin
    project/
    ├── images/          # Your image dataset
    ├── index_data/      # Will be created automatically
-   └── main.py          # The similarity search script
+   └── similarity_search.py          # The similarity search script
    ```
 
 ## Usage
