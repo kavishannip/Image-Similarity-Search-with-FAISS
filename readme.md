@@ -111,7 +111,7 @@ This produces scores between 0 and 1, where 1 indicates identical images.
 
 ```
 project/
-├── main.py                    # Main similarity search script
+├── similarity_search.py                    # Main similarity search script
 ├── index_data/                # Index storage directory
 │   ├── faiss.index           # FAISS vector index
 │   └── image_paths.pkl       # Image file paths
