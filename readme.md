@@ -49,7 +49,7 @@ pip install torch torchvision pillow numpy faiss-cpu pickle-mixin
 2. **Set up query image**: Place your query image (e.g., `my_image.jpg`) in the project root
 3. **Run the search**:
    ```bash
-   python main.py
+   python similarity_search.py
    ```
 
 ### Code Example
