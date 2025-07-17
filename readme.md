@@ -192,10 +192,3 @@ index = faiss.IndexFlatIP(features.shape[1])  # Inner product
 index = faiss.IndexFlatL1(features.shape[1])  # L1 distance
 ```
 
-## License
-
-This project is provided as-is for educational and research purposes. Please ensure you comply with the licenses of all dependencies (PyTorch, FAISS, etc.).
-
-## Contributing
-
-Feel free to submit issues, feature requests, or pull requests to improve the functionality and performance of this image similarity search engine.
